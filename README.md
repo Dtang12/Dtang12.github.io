@@ -21,6 +21,12 @@ Nov 2016 - Present
 - Utilized **PowerBI** and **DAX** to monitor key HR metrics on employees and understand what factors impact employee turnover and attrition.
 - The primary objective of this project is to create a comprehensive report utilizing a simulated dataset from a technology company known as "Atlas Labs" to showcase the application of PowerBI and DAX in generating impactful visual representations.
 
-### HSB Brokers Codes 
 ## Education
+Google Data Analytics Professional Certificate, Data Analytics (_Nov 2021 - August 2022_)
 
+George Brown College, Toronto —  SQL Database Administration (_July 2021 - Jan 2022_)
+
+Insurance Institute of Canada, Toronto — Chartered Insurance Professional Program (_SEPT 2015 - PRESENT_)
+- Courses Completed: *C11, C12, C13, C39, C120, C121, C130, C39, C47*
+
+George Brown College, Toronto — Business Administration Diploma (_SEPT 2009 - AUG 2012_)
