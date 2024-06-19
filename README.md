@@ -17,7 +17,9 @@ Nov 2016 - Present
 
 ## Projects
 ### HR Analytics Case Study
-[Report](https://app.powerbi.com/view?r=eyJrIjoiMWM4YzBiMWYtYTcxMi00ODA5LWFlZDktNjExMjEyZTNlMjQwIiwidCI6ImU4ODNkY2Q1LThjYWQtNGI0MC1hYmY5LWFhZmUyNDhhNGUzZiJ9)
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWM4YzBiMWYtYTcxMi00ODA5LWFlZDktNjExMjEyZTNlMjQwIiwidCI6ImU4ODNkY2Q1LThjYWQtNGI0MC1hYmY5LWFhZmUyNDhhNGUzZiJ9)
+
+[Report](https://github.com/Dtang12/HR-Analytics-Case-Study)
 - Utilized **PowerBI** and **DAX** to monitor key HR metrics on employees and understand what factors impact employee turnover and attrition.
 - The primary objective of this project is to create a comprehensive report utilizing a simulated dataset from a technology company known as "Atlas Labs" to showcase the application of PowerBI and DAX in generating impactful visual representations.
 
