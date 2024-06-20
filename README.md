@@ -23,6 +23,11 @@ Nov 2016 - Present
 - Utilized **PowerBI** and **DAX** to monitor key HR metrics on employees and understand what factors impact employee turnover and attrition.
 - The primary objective of this project is to create a comprehensive report utilizing a simulated dataset from a technology company known as "Atlas Labs" to showcase the application of PowerBI and DAX in generating impactful visual representations.
 
+### Case study of Men's and Women's Fifa matches
+[Project](https://www.datacamp.com/datalab/w/50e4b41e-83a8-4355-90ba-e19bbfccea38/edit)
+- Utilized **Python** to perform hypothesis testing on Men's and Women's Fifa World Cup matches.
+- The objective is to determine whether there is a higher average number of goals scored in women's international soccer matches compared to men's.
+
 ## Education
 Google Data Analytics Professional Certificate, Data Analytics (_Nov 2021 - August 2022_)
 
